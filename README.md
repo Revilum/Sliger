@@ -1,2 +1,2 @@
-# Sliger-An-open-source-server-implamitation
- An open-source server implamitation Version: Alpha:1.0
+# Sliger-An-open-source-server-inplamitation
+ An open-source Slither.io server inplamitation Version: Alpha:1.0
