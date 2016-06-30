@@ -1,1 +1,23 @@
- 
+{
+  "name": "Sliger",
+  "version": "1.0.0",
+  "description": "Open source Slither.io server",
+  "main": "src/index.js",
+  "dependencies": {
+    "ws": "latest",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Revilum/Sliger-An-open-source-server-implamitation"
+  },
+  "author": "Devin Ryan <devin@forairan.com> (http://devin.codes/)",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/Revilum/Sliger-An-open-source-server-implamitation"
+  },
+  "homepage": "https://github.com/Revilum/Sliger-An-open-source-server-implamitation"
+}
