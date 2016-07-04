@@ -4,4 +4,6 @@ At least:Chanelog comming out.
 
 ## Update Alpha 1.2
 The instalationscript (for linux) has been updated now youmust just click on the script and the Changelog has new design.
+### Update Beta 1.0
+The index.js and the gameserver.js has been updated.
 
