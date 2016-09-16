@@ -1,1 +1,1 @@
-repositoryname/src/Filename.md
+Sliger/src/Filename.md
